@@ -1,8 +1,6 @@
-# React + Vite
+Buongiorno;
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+per lanciare e monitorare il progetto una volta installate tutte le dipendenzae da voi richieste tramite comando da terminale 'npm run dev' potete analizzare e valutare il lavoro svolto dal sottoscritto.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Buona giornata e buon lavoro.
+Alessio Montebello
